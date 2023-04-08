@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=0.2
+Name=ptz-python
+GenericName=ptz python
+Comment=Free and Open Source ptz software
+Exec=/usr/share/ptzPython/ptzPython.py
+Icon=/usr/share/ptzPython/ptzPython.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;
+StartupNotify=true
+
